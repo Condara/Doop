@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DOOP_LV1_Čondić", "DOOP_LV1_Čondić\DOOP_LV1_Čondić.csproj", "{B27663C7-F04B-4F49-9EA0-72BA8FA7AA07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B27663C7-F04B-4F49-9EA0-72BA8FA7AA07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B27663C7-F04B-4F49-9EA0-72BA8FA7AA07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B27663C7-F04B-4F49-9EA0-72BA8FA7AA07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B27663C7-F04B-4F49-9EA0-72BA8FA7AA07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {591F2705-DC36-40FF-95D3-807289E1B93E}
+	EndGlobalSection
+EndGlobal
